@@ -1,0 +1,8 @@
+*.log
+node_modules/
+.DS_Store
+allure-results/
+browserstack.err
+package-lock.json
+baseline-images
+reports
